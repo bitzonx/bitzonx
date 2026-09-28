@@ -1,5 +1,13 @@
+<h1 align="center">bitzonx</h1>
+<p align="center"><sub>BETWEEN VOID AND SILK</sub></p>
+
 <p align="center">
-  <img src="./assets/hallownest-banner.svg" width="100%" alt="bitzonx — Between Void and Silk. A quiet bench on the internet, illustrated with a pale mask, crimson cloak, and silver thread." />
+  <a href="https://www.deviantart.com/meltdown-gaming/art/Knight-Hollow-Knight-903797240">
+    <img src="./assets/knight-meltdown-gaming.jpg" width="420" alt="The Knight holding a nail in a blue cavern — fan art by MelTdown-Gaming." />
+  </a>
+</p>
+<p align="center">
+  <sub><a href="https://www.deviantart.com/meltdown-gaming/art/Knight-Hollow-Knight-903797240">Knight | Hollow Knight</a> by <a href="https://www.deviantart.com/meltdown-gaming">MelTdown-Gaming</a> · <a href="https://creativecommons.org/licenses/by/3.0/">CC BY 3.0</a></sub>
 </p>
 
 <p align="center">
@@ -37,7 +45,7 @@
   </blockquote>
   <p>
     Inspired by the worlds of <em>Hollow Knight</em> and <em>Hollow Knight: Silksong</em>.
-    Original fan-made banner and prose; the games and their characters belong to Team Cherry.
+    Fan art credited above, displayed without edits. The games and their characters belong to Team Cherry.
   </p>
 </details>
 
