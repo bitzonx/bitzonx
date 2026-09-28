@@ -1,0 +1,39 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="400" viewBox="0 0 1200 400" role="img" aria-labelledby="title desc">
+  <title id="title">bitzonx — Between Void and Silk</title>
+  <desc id="desc">An original night-blue cavern illustration with a pale horned mask, a crimson cloak, and a silver needle connected by a silk thread.</desc>
+  <defs>
+    <radialGradient id="night"><stop stop-color="#25364c"/><stop offset="1" stop-color="#090d17"/></radialGradient>
+    <linearGradient id="cloak" x2="1" y2="1"><stop stop-color="#dd576d"/><stop offset="1" stop-color="#782b46"/></linearGradient>
+    <linearGradient id="edge"><stop stop-color="#94a8c2" stop-opacity="0"/><stop offset=".5" stop-color="#94a8c2" stop-opacity=".55"/><stop offset="1" stop-color="#94a8c2" stop-opacity="0"/></linearGradient>
+  </defs>
+  <path fill="url(#night)" d="M0 0h1200v400H0z"/>
+  <g fill="none" stroke="#657a99" stroke-opacity=".12" stroke-width="2">
+    <path d="M40 400V185Q40 25 200 25t160 160v215M77 400V190Q77 65 200 65t123 125v210M840 400V185Q840 25 1000 25t160 160v215M877 400V190Q877 65 1000 65t123 125v210"/>
+    <path d="M440 0v85m320-85v85M0 346h1200"/>
+  </g>
+  <g fill="#d6e4f3" opacity=".45">
+    <circle cx="92" cy="110" r="2"/><circle cx="317" cy="88" r="1.5"/><circle cx="400" cy="285" r="2"/><circle cx="790" cy="114" r="1.5"/><circle cx="1100" cy="91" r="2"/><circle cx="855" cy="309" r="1.5"/><circle cx="340" cy="337" r="1"/><circle cx="715" cy="61" r="1"/>
+  </g>
+  <path d="M0 324C140 262 285 384 430 323S670 279 811 326s270 32 389-39" fill="none" stroke="#cc617c" stroke-width="1" opacity=".5"/>
+  <g transform="translate(195 185)">
+    <path d="M-30 36Q-65 77-51 116l24-18 27 22 26-22 28 18Q60 76 29 36" fill="#192233"/>
+    <path d="M-44-8Q-74-40-61-88Q-48-46-21-37Q0-45 21-37Q48-46 61-88Q74-40 44-8L40 24Q0 65-40 24Z" fill="#e4eaf1"/>
+    <ellipse cx="-19" cy="9" rx="9" ry="16" fill="#0b101b"/><ellipse cx="19" cy="9" rx="9" ry="16" fill="#0b101b"/>
+  </g>
+  <g transform="translate(1005 185)">
+    <path d="M-18 24Q-44 49-66 115Q0 96 65 115Q43 48 18 24Z" fill="url(#cloak)"/>
+    <path d="M-32 8Q-55-38-43-90L-12-26Q0-31 12-26L43-90Q55-38 32 8L0 38Z" fill="#edf0f5"/>
+    <path d="m-24-5 13 5-7 13Zm48 0L11 0l7 13Z" fill="#111624"/>
+    <path d="m-82 100 164-58-148 75Z" fill="#afc0d2"/>
+    <ellipse cx="82" cy="42" rx="14" ry="5" transform="rotate(-20 82 42)" fill="none" stroke="#dae1ec" stroke-width="2"/>
+    <path d="M95 37Q145 0 118-45T161-95" fill="none" stroke="#d4dbe7" stroke-width="1.5" opacity=".7"/>
+  </g>
+  <g text-anchor="middle" font-family="Georgia, 'Times New Roman', serif">
+    <text x="600" y="133" fill="#9daec5" font-size="12" letter-spacing="6">BETWEEN VOID AND SILK</text>
+    <text x="600" y="214" fill="#edf0f5" font-size="66" letter-spacing="7">bitzonx</text>
+    <path d="M425 239h350" stroke="url(#edge)"/>
+    <path d="m600 234 5 5-5 5-5-5Z" fill="#bd6a7e"/>
+    <text x="600" y="277" fill="#a8b6ca" font-size="16" letter-spacing="2">a quiet bench on the internet</text>
+  </g>
+  <path d="M0 399h1200" stroke="#354158"/>
+</svg>
